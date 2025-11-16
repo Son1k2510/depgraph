@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env/
+*.egg-info/
+.installed.cfg
+*.egg
+temp_cargo_*/
+temp_cargo_project/
